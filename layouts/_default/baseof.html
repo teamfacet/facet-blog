@@ -20,7 +20,7 @@
 
     {{ $mainscss := resources.Get "/scss/main.scss" }}
     {{ $maincss := $mainscss | toCSS  | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $maincss.Permalink }}">
+    <link rel="stylesheet" href="{{ $maincss.RelPermalink }}">
 
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
     {{ with $stylesheet.css }}
