@@ -1,0 +1,12 @@
+<div class="summary">
+  <h2><a class="plain-link" href="{{ .URL }}">{{ .Title }}</a></h2>
+  <div class="metadata">
+    {{ .Author }}
+  </div>
+  <p>
+    {{ default .Summary .Params.lead }}
+  </p>
+  <p>
+    <a href="{{ .URL }}">Read More&nbsp;<span class="oi icon" data-glyph="arrow-right" title="icon name" aria-hidden="true"></span></a>
+  </p>
+</div>

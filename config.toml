@@ -3,3 +3,12 @@ languageCode = "en-us"
 title = "The Facet Blog"
 theme = "ananke"
 description = "The official blog of the Facet team."
+paginate = 25
+
+[params]
+  companyLegalName = "Facet LLC"
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"

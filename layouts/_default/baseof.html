@@ -17,16 +17,12 @@
       <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     {{ end }}
 
-    <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800"/>
+    <link rel="stylesheet" href="/css/open-iconic.min.css"/>
     {{ $mainscss := resources.Get "/scss/main.scss" }}
     {{ $maincss := $mainscss | toCSS  | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $maincss.RelPermalink }}">
-
-    {{ block "favicon" . }}
-      {{ partial "site-favicon.html" . }}
-    {{ end }}
-
     {{ if .RSSLink }}
       <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
       <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
