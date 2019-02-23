@@ -17,6 +17,7 @@
       <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     {{ end }}
 
+    <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800"/>
     {{ $mainscss := resources.Get "/scss/main.scss" }}
     {{ $maincss := $mainscss | toCSS  | minify | fingerprint }}
@@ -46,7 +47,7 @@
   </head>
 
   <body>
-    {{ partial "site-navigation.html" .}}
+    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main role="main">
       {{ block "main" . }}{{ end }}
     </main>
