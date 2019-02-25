@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "My First Post with a really long title"
 date: 2019-02-21T22:28:48-07:00
 authors: ["Robert Sweeney"]
 categories: ["Announcements"]

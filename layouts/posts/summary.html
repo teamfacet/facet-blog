@@ -1,26 +1,31 @@
-<div class="summary">
+<article class="article-summary">
   <h2><a class="plain-link" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   <div class="metadata">
-    {{ if .Date }}
-        {{ .Date.Format "January 2, 2006" }}
-    {{ end }}
-
     {{ with .Params.authors }}
-      <div>Authors:</div>
       {{ range first 1 . }}
-          <div>{{ . }}</div>
           {{ with $.Site.GetPage (printf "/%s/%s" "authors" (. | urlize)) -}}
-              <a class="plain-link" href="{{ .RelPermalink }}">{{ .Params.name }}</a>&nbsp;-&nbsp;{{ .Params.title }}
+            By&nbsp;<a class="secondary-link" href="{{ .RelPermalink }}">{{ .Params.name }}</a>
           {{- end -}}
       {{- end -}}
     {{ end }}
+    {{- with .Params.categories -}}
+      {{- range first 1 . -}}
+          {{- with $.Site.GetPage (printf "/%s/%s" "categories" (. | urlize)) -}}  
+          &nbsp;on&nbsp;<a class="secondary-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{ if .Date }}
+      •&nbsp;<span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+    {{ end }}
 
   </div>
-  <p>
+  <p class="description">
     {{ default .Summary .Params.lead }}
   </p>
-  <p>
-    <a href="{{ .RelPermalink }}">Read More&nbsp;<span class="oi icon" data-glyph="arrow-right" title="icon name" aria-hidden="true"></span></a>
-  </p>
-</div>
+  <div class="readmore">
+    <a href="{{ .RelPermalink }}">Read More&nbsp;&nbsp;<i class="fas fa-arrow-right"></i></a>
+  </div>
+  
+</article>
     

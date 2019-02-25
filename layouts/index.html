@@ -1,18 +1,12 @@
 {{ define "main" }}
-  <div class="homepage-hero">
+  <div class="hero">
     <div class="container">
       <h1>{{ .Title }}</h1>
       {{ with .Params.subtitle }}
-        <span class="subtitle">{{ . }}</span>
+        <h3>{{ . }}</h3>
       {{ end }}
     </div>
-  </div>
-  <section class="">
-    <div class="container">
-      {{ .Content }}
-    </div>
-  </section>
-  
+  </div>  
   <section class="">
     <div class="container reading-width">
       {{ range .Paginator.Pages }}
