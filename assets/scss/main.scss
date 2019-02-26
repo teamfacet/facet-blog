@@ -1,25 +1,35 @@
-// Units
-$spacer: 16px;
-
-// Colors
-$brand-blue: #0071E0;
-$chrome: #E2E5ED;
-$blue: $brand-blue;
-$secondary-text: #B5B7BD;
-
-// Typography
-$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-$font-family-serif: "Georgia", "Times New Roman";
-$link-hover-decoration: none;
-
 $fa-font-path: "../fonts";
 
-@import "bootstrap/bootstrap";
+@import "normalize/normalize";
 @import "fontawesome/fontawesome";
 @import "fontawesome/solid";
 @import "fontawesome/regular";
 
+//
+// Variables
+// 
+
+// Pallette
+$brand-blue: #0071E0;
+$brand-green: #15CD72;
+$primary-text: #303030;
+$secondary-text: #B5B7BD;
+$secondary-background: #F5F5F7;
+$chrome: #E2E5ED;
+
 // Typography
+$font-family: "Open Sans",  sans-serif;
+$font-family-serif: "Georgia", "Times New Roman";
+
+
+// Typography
+body {
+  font-family: $font-family;
+  font-size: 16px;
+  line-height: 24px;
+  color: $primary-text;
+}
+
 h1 {
   font-size: 58px;
   line-height: 64px;
@@ -30,6 +40,39 @@ h2 {
     font-size: 26px;
     line-height: 40px;
     font-weight: 600;
+}
+
+a, a:hover, a:visited {
+  color: $brand-blue;
+  text-decoration: none;
+}
+
+.plain-link, .plain-link:hover, .plain-link:visited  {
+  text-decoration: none;
+  color: $primary-text;
+}
+
+.secondary-link, .secondary-link:hover, .secondary-link:visited {
+text-decoration: none;
+color: $secondary-text;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 12px;
+
+  @media screen and (min-width: 1224px) {
+    margin: 0 auto;
+  }
+}
+
+.reading-container {
+  max-width: 720px;
+  margin: 0 12px;
+
+  @media screen and (min-width: 744px) {
+    margin: 0 auto;
+  }
 }
 
 // Navbar
@@ -46,19 +89,6 @@ h2 {
     padding: 0px;
 }
 
-.plain-link, .plain-link:hover {
-    text-decoration: none;
-    color: $body-color
-}
-
-.secondary-link, .secondary-link:hover {
-  text-decoration: none;
-  color: $secondary-text
-}
-
-.reading-width {
-    max-width: 730px;
-}
 
 .hero {
   min-height: 30vh;
@@ -102,7 +132,7 @@ h2 {
   }
 
   header {
-    margin-bottom: 32px;
+    margin: 32px 0;
   }
 
   .content {
@@ -115,7 +145,7 @@ h2 {
       font-weight: 700;
       font-size: 32px;
       line-height: 40px;
-      font-family: $font-family-sans-serif;
+      font-family: $font-family;
     }
 
     h3 {
@@ -123,7 +153,7 @@ h2 {
       font-weight: 700;
       font-size: 24px;
       line-height: 32px;
-      font-family: $font-family-sans-serif;
+      font-family: $font-family;
     }
 
     h4 {
@@ -131,7 +161,7 @@ h2 {
       font-weight: 700;
       font-size: 19px;
       line-height: 24px;
-      font-family: $font-family-sans-serif;
+      font-family: $font-family;
     }
 
     p, ul, ol {
