@@ -9,7 +9,7 @@ $secondary-text: #B5B7BD;
 
 // Typography
 $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-
+$font-family-serif: "Georgia", "Times New Roman";
 $link-hover-decoration: none;
 
 @import "bootstrap/bootstrap";
@@ -52,7 +52,7 @@ h2 {
 }
 
 .reading-width {
-    max-width: 720px;
+    max-width: 730px;
 }
 
 .hero {
@@ -69,7 +69,7 @@ h2 {
   }
 }
 
-.article-summary {
+.post-summary {
     padding: 32px 0;
     border-bottom: 1px solid $chrome;
 
@@ -87,6 +87,52 @@ h2 {
     .readmore {
       font-weight: 600;
     }
+}
+
+.post {
+  h1 {
+    font-size: 42px;
+    line-height: 52px;
+    font-weight: 700;
+  }
+
+  header {
+    margin-bottom: 32px;
+  }
+
+  .content {
+    font-family: $font-family-serif;
+    font-size: 19px;
+    line-height: 1.58;
+
+    h1, h2 {
+      margin: 40px 0 8px 0;
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 40px;
+      font-family: $font-family-sans-serif;
+    }
+
+    h3 {
+      margin: 32px 0 0px 0;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 32px;
+      font-family: $font-family-sans-serif;
+    }
+
+    h4 {
+      margin: 16px 0 0px 0;
+      font-weight: 700;
+      font-size: 19px;
+      line-height: 24px;
+      font-family: $font-family-sans-serif;
+    }
+
+    p, ul, ol {
+      margin-bottom: 32px;
+    }
+  }
 }
 
 footer {
