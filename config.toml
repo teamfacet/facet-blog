@@ -1,4 +1,4 @@
-baseURL = "https://www2.facetdev.com/blog2"
+baseURL = "https://www2.facetdev.com/blog"
 languageCode = "en-us"
 title = "The Facet Blog"
 theme = "ananke"

@@ -12,7 +12,12 @@ $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe 
 $font-family-serif: "Georgia", "Times New Roman";
 $link-hover-decoration: none;
 
+$fa-font-path: "../fonts";
+
 @import "bootstrap/bootstrap";
+@import "fontawesome/fontawesome";
+@import "fontawesome/solid";
+@import "fontawesome/regular";
 
 // Typography
 h1 {
