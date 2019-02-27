@@ -1,23 +1,13 @@
-<nav class="navbar navbar-expand-lg navbar-light" role="navigation">
-  <div class="container">
-    <a class="navbar-brand" href="https://www.facetdev.com">
-      <img class="navbar-logo" src="{{ "images/navbar-logo.svg" | relURL }}" alt="Facet">
+<header>
+  <div class="container navbar">
+    <a href="https://www.facetdev.com">
+      <img class="logo" src="{{ "images/navbar-logo.svg" | relURL }}" alt="Facet">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item active">
-          <a class="nav-link" href="/hire" title="Hire">Hire</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/work" title="Work">Work</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="/about" title="About">About</a>
-        </li>
-      </ul>
-    </div>
+
+    <nav class="nav-menu" role="navigation">
+      <a class="nav-link" href="/hire">Hire</a>
+      <a class="nav-link" href="/work">Work</a>
+      <a class="nav-link" href="/about">About</a>
+    </nav>
   </div>
-</nav>
+</header>

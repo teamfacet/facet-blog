@@ -34,12 +34,21 @@ h1 {
   font-size: 58px;
   line-height: 64px;
   font-weight: 900;
+  margin: 0 0 16px 0;
 }
 
 h2 {
-    font-size: 26px;
-    line-height: 40px;
+    font-size: 38px;
+    line-height: 48px;
     font-weight: 600;
+    margin: 0 0 16px 0;
+}
+
+h3 {
+  font-size: 26px;
+  line-height: 40px;
+  font-weight: 600;
+  margin: 0 0 8px 0;
 }
 
 a, a:hover, a:visited {
@@ -52,9 +61,13 @@ a, a:hover, a:visited {
   color: $primary-text;
 }
 
-.secondary-link, .secondary-link:hover, .secondary-link:visited {
+.secondary-link, .secondary-link:visited {
 text-decoration: none;
 color: $secondary-text;
+}
+
+.secondary-link:hover {
+  color: $brand-blue;
 }
 
 .container {
@@ -75,18 +88,27 @@ color: $secondary-text;
   }
 }
 
-// Navbar
-.navbar-logo {
+.navbar {
+  display: flex;
+  flex-direction: row;
+
+  .logo {
     height: 40px;
     margin: 16px 0px;
-}
+  }
 
-.navbar-brand {
-    padding: 0px;
-}
+  .nav-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
 
-.navbar {
-    padding: 0px;
+    a.nav-link {
+      margin: 0 16px;
+      color: $primary-text;
+    }
+  }
+
 }
 
 
@@ -104,11 +126,15 @@ color: $secondary-text;
   }
 }
 
+.page-heading {
+  margin: 32px 0;
+}
+
 .post-summary {
     padding: 32px 0;
     border-bottom: 1px solid $chrome;
 
-    h2 {
+    h3 {
       line-height: 36px;
       margin-bottom: 8px;
     }
@@ -165,12 +191,16 @@ color: $secondary-text;
     }
 
     p, ul, ol {
-      margin-bottom: 32px;
+      margin: 0 0 32px 0;
     }
   }
 }
 
 footer {
   padding: 80px 0;
+
+  .copyright {
+    text-align: center;
+  }
 }
 

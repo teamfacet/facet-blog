@@ -5,8 +5,8 @@
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="post">
-    <div class="container reading-width">
-      <header>
+    <div class="reading-container">
+      <header class="page-heading">
         <h1>
           {{- .Title -}}
         </h1>

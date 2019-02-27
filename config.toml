@@ -1,7 +1,6 @@
 baseURL = "https://www2.facetdev.com/blog"
 languageCode = "en-us"
 title = "The Facet Blog"
-theme = "ananke"
 description = "The official blog of the Facet team."
 paginate = 25
 
