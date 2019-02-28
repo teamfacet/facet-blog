@@ -7,28 +7,59 @@
   <article class="post">
     <div class="reading-container">
       <header class="page-heading">
+        {{- with .Params.categories -}}
+          {{- range first 1 . -}}
+              {{- with $.Site.GetPage (printf "/%s/%s" "categories" (. | urlize)) -}}  
+              <a class="secondary-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{- end -}}
+          {{- end -}}
+        {{- end -}}
         <h1>
           {{- .Title -}}
         </h1>
-        {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-          {{- .Date.Format "Jan 2, 2006" -}}
-        </time>      
-        <span> - {{ .ReadingTime}} min read</span>
-        <span> - {{ .WordCount}} words</span>
+        <div class="metadata">
+          {{ with .Params.authors }}
+            {{ range first 1 . }}
+                {{ with $.Site.GetPage (printf "/%s/%s" "authors" (. | urlize)) -}}
+                  By <a href="{{ .RelPermalink }}">{{ .Params.name }}</a>
+                {{- end -}}
+            {{- end -}}
+          {{ end }}
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            &nbsp;•&nbsp;&nbsp;{{ .Date.Format "Jan 2, 2006" }}
+          </time>      
+          <span>&nbsp;•&nbsp;&nbsp;{{ .ReadingTime}} min read</span>
+        </div>
       </header>
 
       <section class="content">
         {{- .Content -}}
-        {{- partial "tags.html" . -}}
-        <div class="mt6">
-          {{ template "_internal/disqus.html" . }}
-        </div>
       </section>
-
-      <aside class="">
-        {{- partial "menu-contextual.html" . -}}
-      </aside>
+      <section>
+          {{- partial "tags.html" . -}}
+      </section>
+      <footer>
+        <section class="cta-section">
+            <h4>About Facet</h4>
+            {{- partial "cta.html" . -}}
+        </section>
+        
+        {{- with .Site.RegularPages.Related . -}}
+          <section>
+            <h4>Related Posts</h4>
+            {{- partial "related.html" . -}}
+          </section>
+        {{- end -}}
+        <section>
+          <a href="{{ "/" | relURL }}"><i class="fas fa-arrow-left"></i>&nbsp;&nbsp;Blog Home</a>
+        </section>
+      </footer>
+      
     </div>
   </article>
+
+  <div class="">
+    {{ template "_internal/disqus.html" . }}
+  </div>
+
 {{ end }}

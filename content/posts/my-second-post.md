@@ -3,7 +3,7 @@ title: "My Second Post"
 date: 2019-02-22T13:01:13-07:00
 authors: ["Robert Sweeney"]
 categories: ["Announcements"]
-tags: ["Tag 1"]
+tags: ["Facet", "Contracting"]
 ---
 
 
