@@ -3,7 +3,7 @@
   https://gohugo.io/content-management/related/
 */}}
 
-{{ $related := .Site.RegularPages.Related . | first 15 }}
+{{ $related := .Site.RegularPages.Related . | first 10 }}
 
 {{ with $related }}
   <ul class="plain">

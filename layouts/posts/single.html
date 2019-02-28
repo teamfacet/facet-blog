@@ -43,7 +43,7 @@
             <h4>About Facet</h4>
             {{- partial "cta.html" . -}}
         </section>
-        {{- with .Site.RegularPages.Related . -}}
+        {{- if .Site.RegularPages.Related . }}
           <section>
             <h4>Related Posts</h4>
             {{- partial "related.html" . -}}
