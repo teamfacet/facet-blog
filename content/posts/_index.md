@@ -7,4 +7,4 @@ tags: ["Tag 1"]
 lead: "Read this article to find out why Hugo is awesome! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 ---
 
-## Recent blog posts
+## All blog posts

@@ -1,23 +1,14 @@
 {{ define "main" }}
-  {{ $data := .Data }}
-  <article>
-    <div>
+  <article class="page-heading">
+    <div class="container">
       {{ .Content }}
     </div>
   </article>
-  <div>
-    <section>
-      <ul>
-        {{ range .Data.Pages }}
-          <li>
-            <h2>
-              <a href="{{ .RelPermalink }}" >
-                {{ .Title }}
-              </a>
-            </h2>
-          </li>
-        {{ end }}
-      </ul>
-    </section>                                                          
-  </div>
+  <section>
+    <div class="container">
+      {{ range .Pages }}
+        <h4><a href="{{ .RelPermalink }}" >{{- .Title -}}</a></h4>
+      {{ end }}
+    </div>
+  </section>
 {{ end }}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <div class="main">
+    <section class="page-heading">
+      <div class="reading-container">
+        {{ if .Content }}
+          {{ .Content }}
+        {{ else }}
+          <h2>{{ .Title }}</h2>
+        {{ end }}
+      </div>
+    </section>
+    <section>
+      <div class="reading-container">
+      {{- range .Paginator.Pages -}}
+        <div class="">
+            {{- .Render "summary" -}}
+        </div>
+      {{- end -}}
+      </div>
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </div>
+{{ end }}

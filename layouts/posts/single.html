@@ -43,10 +43,6 @@
             <h4>About Facet</h4>
             {{- partial "cta.html" . -}}
         </section>
-        <section>
-            <h4>Subscribe to the Facet blog</h4>
-            {{- partial "subscribe.html" . -}}
-        </section>
         {{- with .Site.RegularPages.Related . -}}
           <section>
             <h4>Related Posts</h4>
@@ -60,6 +56,14 @@
       
     </div>
   </article>
+  <section id="subscribe">
+    <div class="container subscribe-block">
+      <h3>Subscribe to the Facet blog</h3>
+      <p class="reading">If you are interested in bootstrapping a business, becoming an independent contractor or following our journey, you can get the latest posts delivered right to you inbox.</p>
+      {{- partial "subscribe.html" . -}}
+    </div>
+  </section>
+
 
   <div class="">
     {{ template "_internal/disqus.html" . }}

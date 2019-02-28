@@ -17,11 +17,12 @@ $secondary-text: #B5B7BD;
 $light-text: #FFFFFF;
 $secondary-background: #F5F5F7;
 $chrome: #E2E5ED;
+$control-chrome: #cccccc;
 
 // Typography
 $font-family: "Open Sans",  sans-serif;
 $font-family-serif: "Georgia", "Times New Roman";
-
+$reading-width: 720px;
 
 // Typography
 body {
@@ -72,14 +73,32 @@ a, a:hover, a:visited {
   text-decoration: none;
 }
 
+form {
+  label {
+    display: block;
+  }
+}
+
+input[type=text], input[type="search"], input[type="tel"], input[type="url"],
+input[type="email"],input[type="password"], input[type="date"],
+input[type="month"], input[type="week"], input[type="time"],
+input[type="number"], input[type="color"], textarea {
+  border: 1px solid $control-chrome;
+  border-radius: 4px;
+  min-height: 32px;
+  padding: 0 8px;
+  width: 100%;
+  max-width: 400px;
+}
+
 .plain-link, .plain-link:hover, .plain-link:visited  {
   text-decoration: none;
   color: $primary-text;
 }
 
 .secondary-link, .secondary-link:visited {
-text-decoration: none;
-color: $secondary-text;
+  text-decoration: none;
+  color: $secondary-text;
 }
 
 .secondary-link:hover {
@@ -233,16 +252,45 @@ color: $secondary-text;
   }
 }
 
+.reading {
+  max-width: $reading-width ;
+}
 
-a.cta-button {
+.subscribe-block {
+  background-color: $secondary-background;
+  border-radius: 8px;
+  padding: 80px 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.subscribe-form {
+  width: 100%;
+
+  input {
+    height: 40px;
+    padding: 0 12px;
+    margin-bottom: 8px;
+  }
+
+  button {
+    width: 100%;
+    max-width: 200px;
+    padding: 12px 16px;
+  }
+}
+
+.cta-button, a.cta-button {
   display: inline-block;
   background-color: $brand-blue;
   color: $light-text;
   padding: 8px 16px;
   border-radius: 4px;
+  border: none;
+  margin-top: 8px;
 }
-
-
 
 .page-footer {
   padding: 80px 0;
@@ -259,4 +307,3 @@ ul.plain {
     list-style: none;
   }
 }
-
