@@ -39,11 +39,14 @@
           {{- partial "tags.html" . -}}
       </section>
       <footer>
-        <section class="cta-section">
+        <section>
             <h4>About Facet</h4>
             {{- partial "cta.html" . -}}
         </section>
-        
+        <section>
+            <h4>Subscribe to the Facet blog</h4>
+            {{- partial "subscribe.html" . -}}
+        </section>
         {{- with .Site.RegularPages.Related . -}}
           <section>
             <h4>Related Posts</h4>
