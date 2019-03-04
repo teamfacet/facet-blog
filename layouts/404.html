@@ -1,8 +1,12 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-    <article class="center cf pv5 measure-wide-l">
+  <section class="hero">
+    <div class="container">
       <h1>
-        This is not the page you were looking for
+        404 - Not Found
       </h1>
-    </article>
+      <p>We couldn't find the page you are looking for.</p>
+      <div><a href="{{ "/" | relURL }}"><i class="fas fa-arrow-left"></i>&nbsp;&nbsp;Blog Home</a></div>
+    </div>
+  </section>
 {{ end }}
