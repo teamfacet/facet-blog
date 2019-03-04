@@ -4,6 +4,8 @@ date: 2018-10-11T22:28:48-07:00
 authors: ["Robert Sweeney"]
 categories: ["Announcements"]
 tags: ["FDN", "Contracting"]
+aliases:
+  - /the-facet-developer-network-the-freelancer-network-for-former-faangetc-engineers
 ---
 
 I'm not sure if I'm like most software developers, but I've always found that the product I'm working on mostly doesn't matter. What really makes me happy, and gives me fulfillment in my work, is writing beautiful code. Whether it's an operating system used by billions of people or a CRUD app for a small business, I can apply my love of software craftsmanship - minimalist, clean, easy to read and understand - it’s art that has utility. Software craftsmanship makes me happy and I want to optimize my work life for that.
