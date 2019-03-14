@@ -1,5 +1,5 @@
 ---
-title: "Bootstrapping Facet in the open"
+title: "Bootstrapping our startup in the open"
 date: 2019-02-28T12:51:56-07:00
 draft: true
 authors: ["Robert Sweeney"]
