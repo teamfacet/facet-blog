@@ -1,5 +1,5 @@
 ---
-title: Bootstrapping our startup in the open
+title: Bootstrapping Our Startup in the Open
 date: 2019-02-28 19:51:56 +0000
 authors:
 - Robert Sweeney
@@ -51,13 +51,13 @@ Fortunately, we were able to find another customer, and then another, and then a
 
 ### Our Revenue
 
-![Facet Gross Margin as of 2018](/blog/uploads/Facet Gross Margin 2018.jpg)
-
 Revenue is the money a company earns by providing goods or services. We earned our revenue by providing software development services to other companies.
+
+![Facet Gross Margin as of 2018](/blog/uploads/facet-revenue-2018.jpg)
 
 The first four years were really good! We grew almost 4x in our second year, then 50% in years three and four. Hitting $1M in revenue was an incredible feeling! Here we had bootstrapped a company from nothing into a **real** business with **real** customers. There were plenty of ups and downs along the way, and I think I always felt like it could all disappear at any moment, but I was quite proud that I, a programmer, built a real business.
 
-In early 2105 I started splitting my time between Facet and a new startup I was working on, Numetric. I hired a CEO to take over the daily operations of Facet and I began to focus completely on Numetric. As startups do, Numetric took over my life and I ended up neglecting Facet. At first I thought it was cool that I had a company that I owned that didn't require any work! This was a mistake. I should have held regular board meetings, asked for regular reports, and monitored the health of the company. As you can see, when I stopped working on my company, it stopped growing.
+In early 2105, I started splitting my time between Facet and a new startup I was working on, Numetric. I hired a CEO to take over the daily operations of Facet and I began to focus completely on Numetric. As startups do, Numetric took over my life and I ended up neglecting Facet. At first I thought it was cool that I had a company that I owned that didn't require any work! This was a mistake. I should have held regular board meetings, asked for regular reports, and monitored the health of the company. As you can see, when I stopped working on my company, it stopped growing.
 
 In late 2018 I decided to come back to Facet full-time as the CEO to see if I could grow the business. I decided to pivot the company into a different business model, so in many ways, we are a new startup. More on that later.
 
@@ -65,7 +65,7 @@ In late 2018 I decided to come back to Facet full-time as the CEO to see if I co
 
 Gross Profit = Revenue - Cost of Goods Sold. If your company sold cookies, your Cost of Goods Sold (COGS) would be the cost of the ingredients, the labor cost to make the cookies, packaging and delivery costs. If you are a SaaS company, your hosting fees and customer support would be your COGS. Facet provides contract software development services, so our COGS are the salaries or sub-contractor payments we pay to the people that do the work for our customers.
 
-![](/uploads/Facet Gross Profit 2018.jpg)
+![Facet Gross Profit as of 2018](/blog/uploads/facet-gross-profit-2018.jpg)
 
 Because my co-founder and I were doing most of the work in 2013 and 2014, and we didn't count our salaries in COGS (though we probably should have), our GP was REALLY high. Your GP tells you how much money you have to operate and grow your business. You use your gross profits to pay for your office space, fly to visit potential customers or hire sales people.
 
@@ -75,7 +75,7 @@ Gross Margin = Gross Profit/Revenue. Gross Margin (GM) is the percentage of your
 
 In general, the higher your GM the better. However, many businesses are quite successful, even with a low GM.
 
-![](-a0c34ec4-5578-450e-9453-82be5b8053bauntitled)
+![Facet Gross Margin as of 2018](/blog/uploads/facet-gross-margin-2018.jpg)
 
 With our new business model, we will make a fixed 20% margin on our billings. We are more like a marketplace that charges a transaction or service fee. Currently, we plan to report all our billings as revenue since the money flows through Facet. That means our margins will look small, but whatever.
 
@@ -83,7 +83,7 @@ With our new business model, we will make a fixed 20% margin on our billings. We
 
 Net Income = Revenues - Expenses. Net Income is the profit your company is making. It's what's left over after all the expenses of operating your business. Net Income can also be expressed as (Revenue - COGS) - Operational Expenses. For example, rent for your office space, non-COGS salaries, travel expenses, marketing, office snacks, computers, etc. As a business owner, net income is probably your most important metric.
 
-![](-e542cfad-86ee-461d-b941-21ba2b526befuntitled)
+![Facet Net Income as of 2018](/blog/uploads/facet-net-income-2018.jpg)
 
 This is where it gets ugly. After leaving Facet to focus on my new startup, our profits took a nosedive. We've lost money for the past three years in a row. When your business is losing money, that means you don't get paid. :-( It also means you need to find a way to put cash back into your business or you will run out of money and have to close down. That means drawing on your personal savings, taking out bank loans, or some other source of funding.
 
@@ -107,7 +107,7 @@ The pivot is a pretty big departure from what we were doing before, so in a lot 
 
 In October 2018 I made a comment on Hacker News about our new business model with a link to [my first blog post announcing the Facet Developer Network](/blog/posts/the-facet-developer-network-the-freelancer-network-for-former-faangetc-engineers/). That comment and blog post drove 700 visitors to our website and 60 applications to the Facet Developer Network. That's an 8.6% conversion rate! That's extremely high. 45 of the applications met our high quality bar and were accepted. That was all the confirmation I needed that we were on to something.
 
-Since then we've been putting the systems and processes in place to support our new scalable business model. We've also started building our actual product. We're not ready to onboard hundreds of contractors or dozens of customers yet. We only need a few new customers and a dozen or so new contractors this year to grow the company by 3x.
+Since then we've been putting the systems and processes in place to support our new scalable business model. We've also started building our actual product. We're not ready to onboard hundreds of contractors or dozens of customers yet. We only need a few new customers and a dozen or so new contractors this year to grow the company by 3x!
 
 ## Next Up
 

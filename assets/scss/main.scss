@@ -231,6 +231,10 @@ input[type="number"], input[type="color"], textarea {
     p, ul, ol {
       margin: 0 0 32px 0;
     }
+    
+    img {
+      max-width: 100%;
+    }
   }
 
   footer {
