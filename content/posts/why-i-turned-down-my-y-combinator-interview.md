@@ -89,7 +89,7 @@ Those are a few of the biggest reasons I chose not to go through YC or raise any
 - I have less managerial overhead (no board meetings or investor reports)
 - I can grow at a comfortable pace
 
-So I decided to go back to the first company I ever started and see if I could turn it around. I've been back at the helm of Facet for 3 months now. My goal is to build a profitable small pie business that I can one day sell for a $50M. I'm going to be sharing the intimate details of our journey, including our goals, plans, strategies, revenue and profit numbers. If you want to watch us bootstrap Facet, subscribe to the blog.
+So I decided to go back to the first company I ever started and see if I could turn it around. I've been back at the helm of Facet for 3 months now. My goal is to build a profitable small pie business that I can one day sell for a $50M. I'm going to be sharing the intimate details of our journey, including our goals, plans, strategies, revenue and profit numbers. If you want to watch us bootstrap Facet, you can subscribe to the blog at the bottom of this post.
 
 ## tl;dr You don't need venture capital
 
