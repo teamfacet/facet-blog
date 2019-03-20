@@ -1,6 +1,6 @@
 ---
 title: Bootstrapping Our Startup in the Open
-date: 2019-02-28 19:51:56 +0000
+date: 2019-03-22 19:51:56 +0000
 authors:
 - Robert Sweeney
 categories:
