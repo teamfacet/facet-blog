@@ -16,13 +16,13 @@ A few weeks later I got an email from interviews@ycombinator.com.
 
 ![Y Combinator acceptance email](/blog/uploads/y-combinator-email.jpg)
 
-I was thrilled! I'd made a ton of progress since applying and I was excited to pitch my new startup. It's always validating to get confirmation from VCs, especially a VC as prestigious as YC, that you startup has merit. 
+I was thrilled! I'd made a ton of progress since applying and I was excited to pitch my new startup. It's always validating to get confirmation from VCs, especially a VC as prestigious as YC, that your startup has merit. 
 
 But then I started to reflect on my experience as a founder/CEO over the past 8 years.  I'd spent the first four years building a bootstrapped company and it was amazing! We were profitable, we were growing fast, and I was working just 40 hours a week. The next three and a half years I spent building a VC backed startup were complete hell, and I'm not sure if I'll ever see any payoff for all my hard work. Did I really want to put myself through that again?
 
 No, I didn't. I'd also experienced first hand many of the drawbacks of raising VC funding. So I emailed the wonderful folks at YC and told them I wasn't ready and thanked them for the opportunity.
 
-The truth is, bootstrapping is a better choice for most software engineers, especially if you are first time founder. Let me explain why.
+The truth is, bootstrapping is a better choice for most software engineers, especially if you are a first time founder. Let me explain why.
 
 ## You're startup isn't going to become a unicorn
 ![Rainbow unicorn](/blog/uploads/rainbow-unicorn.png)
