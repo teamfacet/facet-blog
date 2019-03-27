@@ -24,7 +24,7 @@ No, I didn't. I'd also experienced first hand many of the drawbacks of raising V
 
 The truth is, bootstrapping is a better choice for most software engineers, especially if you are a first time founder. Let me explain why.
 
-## You're startup isn't going to become a unicorn
+## Your startup isn't going to become a unicorn
 ![Rainbow unicorn](/blog/uploads/rainbow-unicorn.png)
 
 A few weeks ago, I had lunch with my buddy Dan. He's always pretty up-beat, but he seemed happier than usual. That was probably because he recently sold his company for $100M! We talked about the tradeoffs of raising VC funding vs bootstrapping a company. "One of the problems with VCs," I say, "is that they don't have the same amount of skin in the game that you have as a founder." 
@@ -61,7 +61,7 @@ You can increase your chances of success by building a company that produces a p
 
 If you raise venture capital, you will have to spend the money you raise. That means increasing the amount of money you are spending to be greater than the amount of money you are earning. You'll hire people, get a bigger office, spend on marketing and hope that your revenue catches up with your new spending level or hope that you can raise more money, before your bank account is $0.
 
-You're first job as CEO is to not run out of money. Let me tell you, even if all the other metrics are going up and to the right, if your bank account is decreasing, you will feel it. The stress and anxiety is immense and it takes a toll on you. 
+Your first job as CEO is to not run out of money. Let me tell you, even if all the other metrics are going up and to the right, if your bank account is decreasing, you will feel it. The stress and anxiety is immense and it takes a toll on you. 
 
 The reverse is also true. If your bank account is increasing, you will feel it - and it feels great! There is nothing like knowing you have created a **real** business that actually **makes money**. Imagine you own a machine that legally prints money. Seriously, take a second and envision it in your mind. That's literally what it feels like owning a company that is profitable. 
 
@@ -77,7 +77,7 @@ I was talking about fundraising with the CEO of a VC backed company who had just
 
 His reply, "Hmm, yeah, you're pretty much always fundraising."
 
-I probably spent 40-50% of my total time at Numetric fundraising. Not exactly what I had in mind when I started the company. I wanted to be designing product, meeting customers, and building a team. When you are fundraising, you're focus is off your business and the business suffers.
+I probably spent 40-50% of my total time at Numetric fundraising. Not exactly what I had in mind when I started the company. I wanted to be designing product, meeting customers, and building a team. When you are fundraising, your focus is off your business and the business suffers.
 
 ## Other personal motivations
 
