@@ -16,7 +16,7 @@ aliases:
 
 This year we should pass $15M in lifetime revenue at Facet. That seems pretty crazy. Just a few years ago I was an individual contributor software engineer at Netflix. Last year we did $2.2M in revenue, and this year I think we can do $4M to $5M.
 
-We’re building Facet the old-fashioned way — we are building a business that is self-sustaining and profitable. We’ve never taken any outside funding, and Facet employees and I own 100% of the business. We aren’t trying to build the next Facebook, but this isn’t a “lifestyle business” either. We think we can build a large company without *venture* capital.
+We’re building Facet the old-fashioned way — we are building a business that is self-sustaining and profitable. We’ve never taken any outside funding, and Facet employees and I own 100% of the business. We aren’t trying to build the next Facebook, but this isn’t a “lifestyle business” either. We think we can build a large company *without* venture capital.
 
 *Sidenote: I hate the term “lifestyle business.” It feels so demeaning. Like, you don’t have a real business if you aren’t trying to build a unicorn and IPO.*
 
