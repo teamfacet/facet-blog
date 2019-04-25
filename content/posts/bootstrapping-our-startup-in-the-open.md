@@ -1,6 +1,6 @@
 ---
 title: Bootstrapping Our Startup in the Open
-date: 2019-03-22 19:51:56 +0000
+date: 2019-04-25 0:00:00 +0000
 authors:
 - Robert Sweeney
 categories:
@@ -13,104 +13,134 @@ lead: Starting today I'm going to be sharing publicly our company financial info
   metrics, goals and strategies. Want to know how much money Facet is making? We're
   going to start publishing it. I'm super nervous about it, but I hope by doing this
   we can provide a live case study for people that want to bootstrap their own company.
-draft: true
 
 ---
-Starting today I'm going to be sharing publicly our company financial information, metrics, goals and strategies. Want to know how much money Facet is making? We're going to start publishing it. I'm super nervous about it, but I hope by doing this we can provide a live case study for people that want to bootstrap their own company.
+Starting today I'm going to be sharing publicly our company financial information, metrics, goals and strategies at Facet. Want to know how much money we are making? Scroll down. I'm pretty nervous about it, but I hope by doing this we can provide a live case study for people, especially software engineers, that want to bootstrap their own company.
 
-## Why are we doing this?
+Why? Because I was once a software engineer who dreamed of starting his own business. After nine years at Microsoft and Netflix, I founded two reasonably successful businesses - first Facet, which I bootstrapped, and second, Numetric, for which I raised $16M in VC funding. Along the way I've learned from countless painful mistakes. I think my learnings would be helpful for other software engineers that want to bootstrap their own company some day.
 
-Before starting my first company, I spent 10 years as a software engineer at Microsoft and Netflix. I wanted to become an entrepreneur, but I didn't know anything about business. At first I felt like I needed to find a "business" co-founder, but after six months of searching, I gave up. I decided that I was going to be the business guy and just figure things out as I went. It was very scary and I've felt completely out of my comfort zone ever since.
+Also, transparency is a big part of our brand and is a key differentiator for our industry.
 
-Since leaving Netflix in 2012, I've started two reasonably successful businesses - first Facet, which I bootstrapped, and second, Numetric, for which I raised $16M in VC funding. Along the way I've learned from countless painful mistakes. I think my learnings would be helpful for other software engineers that want to start a company some day. **On this blog you'll find help, advice and educational content specifically designed for software engineers that want to become founders of their own company.**
+We’re building Facet the old-fashioned way - we are building a business that is self-sustaining and profitable. We’ve never taken any outside funding, and Facet employees and I own 100% of the business. We aren’t trying to build the next Facebook, but this isn’t a “lifestyle business” either. We think we can build a large company without venture capital.
 
-An essential component to learning how to start and run a company is to understand the basics of business finance and operations. By sharing our company financials, operational metrics and business strategy, you'll get an inside look into how an early stage company works. As we share the intimate details of our company I will include detailed explanations of what the different business concepts mean. My hope is that by reading this blog you will be better prepared when you decide to go from dev to founder.
+*Sidenote: I hate the term “lifestyle business.” It feels so demeaning. Like, you don’t have a real business if you aren’t trying to build a unicorn and IPO.*
 
-I'm also doing this as part of our content marketing strategy for Facet. Content marketing is a way to market to potential customers indirectly. Rather than showing a potential customer an advertisement about your company, you provide them with valuable content like tutorials, guides, videos, podcasts, etc. Ever search for [how to install Postgres on Ubuntu](https://www.google.com/search?q=install+postgres+ubuntu&rlz=1C1CHBF_enUS810US812&oq=install+postgres+ubu&aqs=chrome.0.0l2j69i57j0l3.2787j0j7&sourceid=chrome&ie=UTF-8)? You'll likely end up on digitalocean.com. DigitalOcean doesn't sell Postgres or Ubuntu per se, but they do sell a product that is used by the type of person that would need help installing Postgres on Ubuntu. They provide their target customer with a useful tutorial and in return, they get:
+I started Facet almost eight years ago, so we aren’t a new startup per se. However, a few months ago, we decided to pivot the company into a new business model. In a lot of ways we are starting over.
 
-1. **Brand awareness**: Potential customers learn that there is a company out there called DigitalOcean that sells VPCs and other cloud services.
-2. **Credibility**: Their tutorials are awesome and it shows that they are experts in the field.
-3. **Trust**: When the tutorials work it builds trust in their company.
-4. **Customer love**: They are helping you for free, which is really nice and creates customers that feel appreciation for them.
+## The first 8 years
 
-Content marketing, if done right, can be a very inexpensive way to acquire customers. You pay the cost to write the tutorial once, and people are viewing it for years to come. DigitalOcean has one of the best content marketing programs I've ever seen.
+My best friend Damien and I started Facet, originally called Attack Pattern, as a contract software development company. We felt like most contract development shops didn’t have the experience to build software to the standards of a company like Netflix or Airbnb. In fact, we’d experienced this problem first-hand multiple times throughout our careers. So, in an attempt to solve our own problem, we built a dev shop filled with senior software engineers that had experience building high-quality software at scale - the kind of company that we would have wanted to hire.
 
-At Facet, part of our target customer base are software engineers that are aspiring entrepreneurs. By producing content that might help a software engineer on their journey to becoming a founder, we hope that some of them will join the Facet Developer Network.
+We started Facet in 2011, while we were both working full-time at Netflix. For the next year we would get together almost every day, early in the morning, or in the evening after work, to build out our website and work on other areas of our startup. We had no idea how to start or run a business, but we were filled with naive optimism and excitement. Eventually, we got lucky when a friend sent us a referral. It was Western Digital, the storage giant. 
 
-Lastly, I think transparency is good for this type of business. Being open with our contractors and customers about what our markup is builds trust in Facet and ensures that we are providing enough value that our customers feel like we are worth it.
+We didn’t know how to bid a custom software project, so we decided to just pick a huge number that we thought they would be crazy to pay. After all, we really liked our jobs at Netflix. We told them it would cost **$450,000**. Their response: “OK.” 
 
-Ok, here we go.
-
-## The journey so far
-
-A friend and I started Facet (originally called Attack Pattern) back in 2011 as a contract software development shop. We were both working full-time for Netflix and decided to start a company together. We spent the first year trying to make sales on the side and, eventually, it worked! We landed our first customer in late 2012; a $450,000 project for Western Digital, the storage giant. We felt like we could complete the project in 3 months time, which left us with plenty of runway to find our next project.
-
-By using this strategy, we were able to start a company with almost no risk. We both knew that, in the worst case scenario, if we weren't able to find our next customer in 12 months time, we could both go back to work at some BigCo.
+We were shocked. We felt like we could complete the app in about 3 months, which left us with plenty of runway to find our next customer. So in September 2012, we both quit our jobs and started working full-time on Facet. By building the company on the side, while still working at our full-time jobs, we were able to start a company with almost no risk. We both knew that in the worst case scenario, if we weren't able to find our second customer in 12 months time, we could just go back to work at some BigCo.
 
 Fortunately, we were able to find another customer, and then another, and then another. The company grew fairly quickly during the first four years. We eventually hired additional full-time developers to help us do the work we were bringing in.
 
-### Our Revenue
+The plan was to use custom software development income to fund product development, following the model of 37Signals. And that’s pretty close to what ended up happening.
 
-Revenue is the money a company earns by providing goods or services. We earned our revenue by providing software development services to other companies.
+### Our Revenue from 2012 to 2018
 
-![Facet Gross Margin as of 2018](/blog/uploads/facet-revenue-2018.jpg)
+Since starting Facet, we’ve earned a total of $11.8M. Here’s how our revenue breaks down over the company’s lifetime:
 
-The first four years were really good! We grew almost 4x in our second year, then 50% in years three and four. Hitting $1M in revenue was an incredible feeling! Here we had bootstrapped a company from nothing into a **real** business with **real** customers. There were plenty of ups and downs along the way, and I think I always felt like it could all disappear at any moment, but I was quite proud that I, a programmer, built a real business.
+![Facet Revenue as of 2018](/blog/uploads/facet-revenue-2018.jpg)
 
-In early 2105, I started splitting my time between Facet and a new startup I was working on, Numetric. I hired a CEO to take over the daily operations of Facet and I began to focus completely on Numetric. As startups do, Numetric took over my life and I ended up neglecting Facet. At first I thought it was cool that I had a company that I owned that didn't require any work! This was a mistake. I should have held regular board meetings, asked for regular reports, and monitored the health of the company. As you can see, when I stopped working on my company, it stopped growing.
+Our first four years were really good! We grew almost 4x in our second year, then 50% in years three and four. Hitting $1M in revenue in our second year felt amazing! We had bootstrapped a company from nothing into a **real** business with **real** customers. We had a handful of amazing employees and we were quite profitable. I was proud that I, a Senior Software Engineer with no prior business experience, had built a real business.
 
-In late 2018 I decided to come back to Facet full-time as the CEO to see if I could grow the business. I decided to pivot the company into a different business model, so in many ways, we are a new startup. More on that later.
+I absolutely LOVED being the CEO of my own company. It’s a lot like UX design or greenfield software design. You get to decide how everything works, looks and feels. I defined our vision, our brand, our company culture, our values and how we executed. It feels awesome when a customer buys from a company you’ve built. 
 
-### Our Gross Profit
+While I was the CEO of Facet from 2011 to 2015, I had better work/life balance than I did as an employee of Netflix or Microsoft and I was in control of my own destiny.
 
-Gross Profit = Revenue - Cost of Goods Sold. If your company sold cookies, your Cost of Goods Sold (COGS) would be the cost of the ingredients, the labor cost to make the cookies, packaging and delivery costs. If you are a SaaS company, your hosting fees and customer support would be your COGS. Facet provides contract software development services, so our COGS are the salaries or sub-contractor payments we pay to the people that do the work for our customers.
+In 2014, my co-founder Damien ended up leaving the company. I regret how I handled the situation and I really wish he were still here.
+
+From 2012 through 2014 we built several MVPs and tested them with customers. They were all terrible, except for one; we built a data analytics product on top of Elasticsearch. We called it Numetric. We started to get some traction and so I decided to spin out Numetric into its own company.
+
+In 2015, I started splitting my time between Facet and Numetric. Eventually, I hired a CEO to take over the daily operations of Facet and I began to focus completely on Numetric. As startups do, Numetric took over my life and I ended up spending very little time on Facet. At first I thought it was cool that I had a company that I owned that didn't require any work. This was a mistake. When I stopped working on my company, it stopped growing.
+
+From 2015 to 2018, revenue at Facet was flat or declining. It's hard for me to say exactly what went wrong during this time because I spent so little time thinking about Facet. I just didn't have the bandwidth to work on it.
+
+### Our Gross Profit from 2012 to 2018
+
+Gross Profit = Revenue - Cost of Goods Sold. If your company sold cookies, your Cost of Goods Sold (COGS) would be the cost of the ingredients, the labor cost to make the cookies, packaging and delivery costs. Facet provides contract software development services, so our COGS are the salaries or subcontractor payments we make to the people that do the work for our customers.
 
 ![Facet Gross Profit as of 2018](/blog/uploads/facet-gross-profit-2018.jpg)
 
-Because my co-founder and I were doing most of the work in 2013 and 2014, and we didn't count our salaries in COGS (though we probably should have), our GP was REALLY high. Your GP tells you how much money you have to operate and grow your business. You use your gross profits to pay for your office space, fly to visit potential customers or hire sales people.
+Our Gross Profit was pretty high in 2013 and 2014. That’s because Damien and I were doing a lot of the work and we weren’t counting our salaries as COGs like we should have. We also did a few projects that were high-value to our customers, but very low cost for us to build. Gross Profit is a very important metric because it tells you how much money you have to operate and grow your business, as well as how much profit you can make. You use your gross profits to pay for things like your office space, travel, and administrative employee salaries.
 
-### Our Gross Margin
+![Facet Revenue vs Gross Profit as of 2018](/blog/uploads/facet-revenue-vs-gross-profit-2018.jpg)
 
-Gross Margin = Gross Profit/Revenue. Gross Margin (GM) is the percentage of your revenue that is Gross Profit. A grocery store will have a GM of around 20%. Ford has a GM of around 15-20%. Most software companies have a GM of around 80-90%. The reason software has such a high GM compared to other types of businesses is because to sell another car, Ford has to pay for the cost to build the car, whereas the cost of selling another copy of Jira or GitHub is close to $0. Other businesses with great GM: energy drinks, makeup, and pharmaceuticals.
+While I was away in 2016, our revenue went up $300k, but our COGs also went up $300k. We had hired additional devs, but we weren’t finding enough new work to keep our new devs busy. In 2017 and 2018, the size of our development team stayed the same, but we found fewer projects, so our revenue and gross profit went down.
 
-In general, the higher your GM the better. However, many businesses are quite successful, even with a low GM.
+I never thought I’d have a down-turn in my business. This is one of the hard things about owning a company. You will care deeply about every employee that works at your company. As the business owner, you get paid after everyone else has been paid. When business isn’t going well, you will have to decide whether you are going to keep all your employees and not pay yourself, or lay off some of your employees so you can take a salary.
 
-![Facet Gross Margin as of 2018](/blog/uploads/facet-gross-margin-2018.jpg)
+Ultimately, we had to make significant cuts. We ended up cutting 50% of our staff.
 
-With our new business model, we will make a fixed 20% margin on our billings. We are more like a marketplace that charges a transaction or service fee. Currently, we plan to report all our billings as revenue since the money flows through Facet. That means our margins will look small, but whatever.
+## Pivoting Facet
 
-### Our Net Income
+In December 2017, after 3.5 years of building Numetric, I was completely burnt out. We were hitting the right milestones, but I was constantly fighting with my co-founder. Every night I talked to my wife about resigning and taking some time off. Luckily, before I got a chance to resign, the board of directors at Numetric decided it was best if I moved on. They offered me a seat on the board, gave me a nice severance and I was able to take a much needed break.
 
-Net Income = Revenues - Expenses. Net Income is the profit your company is making. It's what's left over after all the expenses of operating your business. Net Income can also be expressed as (Revenue - COGS) - Operational Expenses. For example, rent for your office space, non-COGS salaries, travel expenses, marketing, office snacks, computers, etc. As a business owner, net income is probably your most important metric.
+Seven months later, in September of 2018, I had an idea for a new business model for Facet. Rather than being a company that provides custom software development solutions, Facet would become [a platform for hiring ex-FAANGetc engineers](https://www.facetdev.com/blog/posts/the-facet-developer-network-the-freelancer-network-for-former-faangetc-engineers/) as contractors.
 
-![Facet Net Income as of 2018](/blog/uploads/facet-net-income-2018.jpg)
+The hypothesis I had was that there are a ton of engineers at FAANG and other top software companies that would rather be independent contractors, much like I did before becoming a founder. But the prospect of having to find work, chase down payments and run an independent contracting business is just too overwhelming. If we built a company that took care of all that for them, then devs, PMs and designers would feel much safer about leaving their full-time jobs and becoming independent contractors. We would make money by adding a 20% markup on the rate our contractors charged.
 
-This is where it gets ugly. After leaving Facet to focus on my new startup, our profits took a nosedive. We've lost money for the past three years in a row. When your business is losing money, that means you don't get paid. :-( It also means you need to find a way to put cash back into your business or you will run out of money and have to close down. That means drawing on your personal savings, taking out bank loans, or some other source of funding.
+### Testing the Idea
 
-2015 through 2017 were very hard years in my life. I was trying to get a new startup off the ground and, every time I saw my CEO at Facet calling, I was afraid to pick up the phone. It seemed like he always had bad news. My company seemed to be falling apart and there was nothing I could do about it. I had 40 employees at Numetric that were counting on me, plus my friends, family and VCs who had invested in Numetric.
+It seemed like a good idea, but there were two big unknowns:
 
-I had invested most of my personal savings into Numetric too. I had to take out a line of credit on my house to keep Facet alive. Our finances were under heavy strain, which in turn caused strain on my wife and kids.
+1. Are there really developers, designers and PMs out there that want to transition to full-time contract, but haven’t because they don’t want to deal with sales?
+2. How do I consistently find companies that want to hire senior, ex-FAANGetc contractors?
 
-Fortunately, in 2018 I was fired from Numetric. :-) I returned to Facet mid-2018 and in November I decided to take back over as CEO. I have a new vision for Facet that I am really excited about and that I hope will allow us to scale the company. My goal is to take everything I've learned over the past 8 years and use it to grow Facet to something much bigger. I also plan to continue to bootstrap Facet. I strongly prefer building and running a bootstrapped company that produces profit, over a VC backed company that is constantly losing money. You could say I have a bit of a chip on my shoulder.
+The developer in me really wanted to just go and start building the product. It took a lot of self control to build a quick and dirty proof of concept first, to see if my new startup idea was any good. So I created a simple contractor sign up form that saved records to AirTable. That would be our membership database. Then I found some off-the-shelf software to do time tracking, billing and payments. It took about two weeks to put together a proof of concept and build a brand new website. To save money I decided to do this all myself. I designed our new logo and branding, built the website and wrote the copy.
 
-## The pivot
+The next step was to prove/disprove my main hypothesis: that there are full-timers who would prefer to go contract, but need a service like Facet. I wrote up a blog post announcing our new product/service and started sharing it on LinkedIn. I even sent a bunch of direct messages to devs inviting them to join. It took a lot of time and effort, but I managed to get 6 developers to sign up. It wasn’t much, but it was something!
 
-Before starting Facet I worked at Microsoft and Netflix for 9 years. I didn't like working at a big company, but the salary and benefits were too good to pass up. I always felt like I would enjoy freelance/contract work more, but I didn't want to take on the hassle of finding work and chasing down payments. While an engineering manager at Microsoft, I sometimes needed contract engineers, but the quality was not good.
+Then, one day, while browsing Hacker News, someone posted a question: “Ex-FAANG developers, where are you now and why?” I thought people might be interested in my story and the services of Facet, so [I made a comment](https://news.ycombinator.com/item?id=18193847) describing my new startup. The response was incredible! My comment only got 35 upvotes, but it drove about 4,000 people to our website and generated **56 sign-ups in one day!** Most of the applications were absolutely incredible. We ended up accepting 42 of them!
 
-Then a few months ago I had an idea - could we build a company that designed to solve those two problems? Facet would build a sales and marketing team to find high-quality contract work. Then we build a network of high-quality contractors to sub out the work to. If you are an independent contractor, we serve as your sales team, your collections team, your legal team, etc. If you are an engineering manager, you can use Facet to browse a curated network of talent - no more recruiters, no more piles of bad resumes.
+That day I felt like I had eliminated the biggest unknown - people wanted our service. It was thrilling! There were still many other unknowns, but in just 6 weeks I had built a prototype, launched it, and collected enough data to know whether or not there was a business here. The idea was good, now came the hard part - I needed to execute it well.
 
-There are other platforms out there that offer a similar service, like Upwork or Guru, but customers don't shop there for senior software developers that were like me. We made Facet a premium service.  Said another way, Facet is a marketplace for hiring premium quality software talent located in the US or Canada. Contractors that join Facet to work set their own hourly rate. Facet clients that hire contractors through Facet pay a 20% markup on the hourly rate for the convenience of working with a single company and for us doing the work of sourcing and screening the talent.
+### Returning to the company I founded
 
-## Early signs look very promising
+My CEO who had been running Facet for the past four years wasn’t convinced that the new business model would work. I spent a lot of time trying to help him catch the vision, but eventually I realized it wasn’t going to work. I couldn’t have someone else build my startup; it had to be me. That meant I had to let my current CEO go. Over the years I’ve had to let a lot of people go; it’s probably the worst part of the job. I’m still terrible at those conversations. If you’ve had a positive experience while being let go, I’d love to hear how they managed to do it.
 
-The pivot is a pretty big departure from what we were doing before, so in a lot of ways we are a brand new startup. We had 0 contractors in our network in September 2018. We now have 80. We had 0 customers for our new business model in September 2018, we now have a dozen or so. Some were existing customers we transitioned over, but most are new customers since September 2018.
+For the last two months of 2018 I worked on pivoting the company. I brought on a co-founder, Blake Gibbons, to help me build this new company. We mapped out our long-term vision and goals for the company to make sure we were aligned. Next we created an execution plan and goals for 2019. Here’s what we decided.
 
-In October 2018 I made a comment on Hacker News about our new business model with a link to [my first blog post announcing the Facet Developer Network](/blog/posts/the-facet-developer-network-the-freelancer-network-for-former-faangetc-engineers/). That comment and blog post drove 700 visitors to our website and 60 applications to the Facet Developer Network. That's an 8.6% conversion rate! That's extremely high. 45 of the applications met our high quality bar and were accepted. That was all the confirmation I needed that we were on to something.
+### How we bootstrap to a $100M company
 
-Since then we've been putting the systems and processes in place to support our new scalable business model. We've also started building our actual product. We're not ready to onboard hundreds of contractors or dozens of customers yet. We only need a few new customers and a dozen or so new contractors this year to grow the company by 3x!
+Sometime in the next five to ten years we’d like to sell the company for $100M to someone who can do a better job operating the business than we can.
 
-## Next Up
+To sell the company for $100M, assuming we can get a 10x multiple on our profit, we would need to be earning $10M/year in profit (or more accurately: [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)). If we keep our operational costs at 50% of our gross profit, then our gross profit would need to be $20M. With a 20% margin on all the hours that are billed through Facet, we would need to earn $100M in revenue (or more accurately: [GMV](https://en.wikipedia.org/wiki/Gross_merchandise_volume)) in order to generate $20M in gross profit. 
 
-In my next post I will go deeper into our plans and goals for 2019, as well as the specific strategies and tactics we'll be testing. In other words, I'll share how we plan on executing on our idea. I'll also share our key metrics for the months since we pivoted and what a good growth rate is.
+Assuming we bill $175/hr on average, we would need to bill about 550,000 hours/year. ($100M / $175/hr = 547,428 hours.) Assuming a contractor works 1,800 hours per year, that works out to be 304 contractors working full-time through Facet. It also equates to billing 10,527 hours on average each week. Whew!
 
-If you would like to follow our bootstrapping journey, and learn how to start your own company along the way, you can subscribe to this blog below.
+By working backward from our goal sale price, we were able to arrive at a very actionable metric: hours billed per week. We’ve made this our primary KPI for Facet. We like this KPI because the hours worked by our contractors generally map to value provided to our customers. It also maps to income earned by the contractor. The more hours worked through Facet, the more people we are helping find quality work. 
+
+This one metric, hours billed, is the primary KPI that all teams at Facet will be focused on. It's really important that your key metric aligns with your company mission and your business interests of revenue and profitability. 
+
+The other assumptions we made in our calculations are additional metrics we will be measuring along the way: average hourly rate billed, revenue, gross margin, and net margin. They are mostly educated guesses at this point, so there are still lots of unknowns.
+
+### 2019 Goals
+
+After changing the business model for the company, we were able to convert some of our existing customers over to the new business model. We were also able to add several new customers at the end of 2018. In December 2018, we averaged 306 hours billed per week - this is where we are starting from in 2019.
+
+A 10-15% month over month growth rate is a very strong growth rate for a startup that has meaningful revenue. Since we are bootstrapped and I own 100% of the company, I don’t have investors pushing me to grow at all costs. I want strong growth, but I want profitable and sustainable growth. So, we set a goal to grow 8% every month. That works out to be about 160% growth in a single year. We feel like growing by ~2.5x, while producing a good profit, would be an incredible achievement. Here’s what we hope to be able to do in 2019.
+
+![Facet 2019 Goal - Hours Billed](/blog/uploads/2019-goal-hours.png)
+
+![Facet 2019 Goal - Revenue](/blog/uploads/2019-goal-revenue.png)
+
+Our other goals for 2019 are:
+1. Build a marketing engine that produces a steady stream of new clients.
+2. Build a marketing engine that produces a steady stream of new contractors.
+3. Build and rollout our MVP.
+
+I’ll go into more detail about the other goals in a future update. 
+
+## Next Up: Q1 2019 Results
+
+Next week I will be publishing our Q1 (Jan-Mar) results. I’ll go over the different tactics we’ve tried for marketing and lessons we’ve learned so far. 
+
+If you’d like to be notified when the next post is up, you can subscribe to the blog below.
+
+I’d also really appreciate your feedback. Was this helpful? Do you have suggestions that would make it more helpful? You can email your comments and feedback to team@facetdev.com.
