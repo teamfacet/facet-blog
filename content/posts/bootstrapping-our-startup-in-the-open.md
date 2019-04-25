@@ -124,7 +124,7 @@ The other assumptions we made in our calculations are additional metrics we will
 
 After changing the business model for the company, we were able to convert some of our existing customers over to the new business model. We were also able to add several new customers at the end of 2018. In December 2018, we averaged 306 hours billed per week - this is where we are starting from in 2019.
 
-A 10-15% month over month growth rate is a very strong growth rate for a startup that has meaningful revenue. Since we are bootstrapped and I own 100% of the company, I don’t have investors pushing me to grow at all costs. I want strong growth, but I want profitable and sustainable growth. So, we set a goal to grow 8% every month. That works out to be about 160% growth in a single year. We feel like growing by ~2.5x, while producing a good profit, would be an incredible achievement. Here’s what we hope to be able to do in 2019.
+A 10-15% month over month growth rate is a very strong growth rate for a startup that has meaningful revenue. Since we are bootstrapped and we own 100% of the company, we don’t have investors pushing us to grow at all costs. We want strong growth, but we want profitable and sustainable growth. So, we set a goal to grow 8% every month. That works out to be about 160% growth in a single year. We feel like growing by ~2.5x, while producing a good profit, would be an incredible achievement. Here’s what we hope to be able to do in 2019.
 
 ![Facet 2019 Goal - Hours Billed](/blog/uploads/2019-goal-hours.png)
 
