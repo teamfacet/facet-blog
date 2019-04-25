@@ -131,6 +131,7 @@ A 10-15% month over month growth rate is a very strong growth rate for a startup
 ![Facet 2019 Goal - Revenue](/blog/uploads/2019-goal-revenue.png)
 
 Our other goals for 2019 are:
+
 1. Build a marketing engine that produces a steady stream of new clients.
 2. Build a marketing engine that produces a steady stream of new contractors.
 3. Build and rollout our MVP.
