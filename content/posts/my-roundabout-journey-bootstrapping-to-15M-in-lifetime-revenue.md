@@ -127,6 +127,8 @@ If we can hit our goals for 2019, then this is what our revenue chart will look 
 
 ![Facet 2019 Goal - Lifetime Revenue](/blog/uploads/facet-revenue-2019.jpg)
 
+Much better!
+
 ## Next Up: Q1 2019 Results
 
 Next week I will be publishing our Q1 (Jan-Mar) results. I’ll go over the different tactics we’ve tried for marketing and lessons we’ve learned so far. 
