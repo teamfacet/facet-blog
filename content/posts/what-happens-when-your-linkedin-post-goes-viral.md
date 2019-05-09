@@ -88,7 +88,7 @@ Social media marketing and content marketing are a big part of our growth strate
 
 ![Robert's LinkedIn Profile Views](/blog/uploads/linkedin-profile-views.jpg)
 
-However, post views and profile views did not translate very well into website traffic. In fact, the website traffic was pretty disappointing. 
+However, post views and profile views did not translate very well into website traffic. In fact, the bump in website traffic was pretty disappointing. 
 
 ![Facet Website Traffic April 29 to May 7](/blog/uploads/facet-visitors-linkedin.jpg)
 
