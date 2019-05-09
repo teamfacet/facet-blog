@@ -24,7 +24,7 @@ Programmer interviewing and hiring is so badly broken. I know because I used to 
 
 I am incredibly humbled by the response. Many of the LinkedIn comments expressed gratitude for sharing my experience. The kind words really mean a lot to me.
 
-For context, I’m the founder and CEO of a small technology company, [Facet](https://www.facetdev.com). We have just 10 employees. I live in Highland, UT. I have a whopping 35 followers on Twitter. When I made the post to LinkedIn I had 1,700 connections.
+For context, I’m the founder and CEO of a small technology company, [Facet](https://www.facetdev.com). We have just 10 employees. I live in Highland, UT. I have a whopping 35 followers on Twitter and, when I made the post to LinkedIn, I had 1,600 connections.
 
 I’ve never had a LinkedIn post go viral before, so I thought I would share what the experience has been like for me.
 
