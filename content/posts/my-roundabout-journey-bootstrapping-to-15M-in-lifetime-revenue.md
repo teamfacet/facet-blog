@@ -4,7 +4,7 @@ date: 2019-04-25 0:00:00 +0000
 authors:
 - Robert Sweeney
 categories:
-- Announcements
+- Building Facet
 tags:
 - Startups
 - Business
