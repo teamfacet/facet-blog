@@ -54,7 +54,7 @@ My post must have crossed some threshold because the likes and reshares start to
 I wake up to 100 connection requests on my phone. WTF is going on? My wife and I make bets about where it will top out. She says 1,000 likes.
 
 #### 5:00pm - Views: 130k, Likes: 1,800, Comments: 200, Reshares: ?
-Holy cow! What is happening? I’m getting flooded with connection requests on LinkedIn - about 2 connection request per minute. The LinkedIn app is draining my phone battery. I silence my phone and turn it face down so I can actually get some work done.
+Holy cow, what is happening? I’m getting flooded with connection requests on LinkedIn - about 2 connection request per minute. The LinkedIn app is draining my phone battery. I silence my phone and turn it face down so I can actually get some work done.
 
 #### 9:00pm - Views: 260k, Likes: 3,500, Comments: ?, Reshares: ?
 Still going.
