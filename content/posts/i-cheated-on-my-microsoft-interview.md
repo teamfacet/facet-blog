@@ -2,7 +2,7 @@
 title: "I Cheated on My Microsoft Interview"
 date: 2019-05-21T00:00:00-07:00
 authors: ["Robert Sweeney"]
-categories: ["Hiring"]
+categories: ["Hiring", "Developer Interviews"]
 tags: ["Hiring"]
 ---
 
@@ -10,7 +10,7 @@ tags: ["Hiring"]
 
 In 2004 I was a senior majoring in Computer Engineering at Brigham Young University. The tech industry hadn’t yet fully recovered from the bubble bursting and so programming jobs were pretty hard to come by. I was applying for jobs everywhere, but just couldn’t seem to get an interview.
 
-One day, I saw a flier pinned to the mostly empty job board in the Computer Science department. It said that Microsoft would be coming to the campus for a job fair. I immediately sent my resume to the email address on the flier, not expecting to hear anything back. 
+One day, I saw a flyer pinned to the mostly empty job board in the Computer Science department. It said that Microsoft would be coming to the campus for a job fair. I immediately sent my resume to the email address on the flyer, not expecting to hear anything back. 
 
 A few days later, to my surprise, I got an email from a recruiter at Microsoft. She invited me to a 15 minute interview with a Microsoft representative during the career fair. I was thrilled! This would be my first real job interview ever. 
 
