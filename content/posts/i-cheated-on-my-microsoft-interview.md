@@ -8,7 +8,7 @@ tags: ["Hiring"]
 
 ![Microsoft sign](/blog/uploads/microsoft-sign.jpg)
 
-In 2004 I was a senior majoring in Computer Engineering at Brigham Young University. The tech industry hadn’t yet fully recovered from the bubble bursting and so programming jobs were pretty hard to come by. I was applying for jobs everywhere, but just couldn’t seem to get an interview.
+In 2004 I was a senior majoring in Computer Engineering at Brigham Young University. The tech industry hadn’t yet fully recovered from the bubble bursting, so programming jobs were pretty hard to come by. I was applying for jobs everywhere, but just couldn’t seem to get an interview.
 
 One day, I saw a flyer pinned to the mostly empty job board in the Computer Science department. It said that Microsoft would be coming to the campus for a job fair. I immediately sent my resume to the email address on the flyer, not expecting to hear anything back. 
 
