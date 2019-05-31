@@ -23,10 +23,10 @@ In some cases you’ll make more money as a FDN contractor. In some cases you’
 
 People become contractors for many reasons - to bootstrap a startup, to have a better work/life balance, to live as a digital nomad, to travel more or to just escape the corporate bureaucracy. We want to make it easier for software developers to achieve their goals by eliminating as much of the risk as we can.
 
-We started this experiment a couple of months ago and the initial results have been very positive. We want to grow it slowly to make sure we can provide enough work opportunities to the developers in our network. That said, we currently have many more work opportunities than developers. We need more dev contractors now. **If you are interested in becoming a contractor, [please sign up](https://www.facetdev.com/member-sign-up)!**
+We started this experiment a couple of months ago and the initial results have been very positive. We want to grow it slowly to make sure we can provide enough work opportunities to the developers in our network. That said, we currently have many more work opportunities than developers. We need more dev contractors now. **If you are interested in becoming a contractor, [please sign up](https://www.facetdev.com/member-sign-up?utm_source=facet&utm_medium=blog&utm_campaign=ex-faang)!**
 
 ## A Call to FAANGetc devs
-If you are currently a senior dev, working full-time at a FAANGetc company, and have thought about a career change to become a contractor, you should [join the Facet Developer Network](https://www.facetdev.com/work). We’ll send you information about contracting opportunities we find. When the right opportunity comes along, you can take the leap. I promise you’ll love it! Until then, keep doing what you’re doing.
+If you are currently a senior dev, working full-time at a FAANGetc company, and have thought about a career change to become a contractor, you should [join the Facet Developer Network](https://www.facetdev.com/work?utm_source=facet&utm_medium=blog&utm_campaign=ex-faang). We’ll send you information about contracting opportunities we find. When the right opportunity comes along, you can take the leap. I promise you’ll love it! Until then, keep doing what you’re doing.
 
 ## Common Questions
 #### Why only Senior devs?
