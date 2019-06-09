@@ -9,6 +9,7 @@ tags:
 - Startups
 - Business
 - Facet
+- Progress Report
 
 aliases:
   - /posts/bootstrapping-our-startup-in-the-open
