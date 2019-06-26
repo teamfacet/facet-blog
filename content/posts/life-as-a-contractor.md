@@ -15,7 +15,7 @@ Full-time developers who are currently employees, yet are curious about what con
 
 ### What has the transition from  employee to contractor been like?
 
-Looking back, I guess I’ve always been a contractor in one form or another. A friend and I started software and website contracts in high school<sup>1</sup> (1993) and continued that throughout university. My career has alternated between full-time employment (usually with a side contract) and full-time contracting. Maybe I should take a break at some point :)
+Looking back, I guess I’ve always been a contractor in one form or another. A friend and I started software and website contracts in high school[^1] in 1993 and continued that throughout university. My career has alternated between full-time employment (usually with a side contract) and full-time contracting. Maybe I should take a break at some point :)
 
 My experience is perhaps a little odd in that I’ve never gone through a period of multiple short-term (<1 year) contracts. I think many people believe that a contractor or consultant hops from project to project every few months but that’s not necessarily the case.
 
@@ -23,7 +23,7 @@ My experience is perhaps a little odd in that I’ve never gone through a period
 
 The majority of my contracts have come indirectly via friends and colleagues. 
 
-The only exceptions to that were early in my career (2001) with some work on Rent-A-Coder (in the hundred dollar range) and on Elance (in the thousand dollar range). Bidding for those contracts was brutal since you were competing with firms in Eastern Europe and Asia who could easily underbid to win.<sup>2</sup> 
+The only exceptions to that were early in my career (2001) with some work on Rent-A-Coder (in the hundred dollar range) and on Elance (in the thousand dollar range). Bidding for those contracts was brutal since you were competing with firms in Eastern Europe and Asia who could easily underbid to win.[^2] 
 
 At the same time, one Elance contract turned into a fifteen-year relationship, which more than made up for original effective hourly rate. I wouldn’t gamble on that again though...
 
@@ -37,9 +37,9 @@ Of course! Everyone should become a contractor if they want to :) The main issue
 
 In general, employees can feel relatively secure they will get their regular paycheque. Contractors have to deal with a variety of terms. Here are just a few:
 
-* Full payment on completion (run screaming from these)
-* Monthly billing, Net 30, 60, even 90<sup>3</sup> (not bad)
-* Some percentage up-front, and the rest split between milestones and completion (probably the fairest for everyone involved)
+* Full payment on completion - run screaming from these
+* Monthly billing, Net 30, 60, even 90[^3] - not bad
+* Some percentage up-front, and the rest split between milestones and completion - robably the fairest for everyone involved
 
 Early on, I got burned quite badly by accepting a four-month sub-contract for four full-time developers with payment due when the actual client accepted the work. Assuming that a signed contract meant something, I personally paid the other three devs bi-weekly. At the end, through a series of unfortunate events and bold-faced lies, I ended up getting zero dollars for the contract and had to sell our house to make up for all the debt incurred (around $40K CAD in 2003.)
 
@@ -78,7 +78,7 @@ Create your own network. No one is going to hand you one on a silver platter :)
 
 - Hiring full-time employees is an expensive and time-consuming task. Look for ways that you can offer your service as a contractor that would benefit a hiring manager.
 - Contact companies that hire remotely. They are usually set up to entertain contract work.
-- Sign on with a [good consulting firm](https://www.facetdev.com)<sup>4</sup> and then pick the contracts that best suit you.
+- Sign on with a [good consulting firm](https://www.facetdev.com)[^4] and then pick the contracts that best suit you.
 
 ![Traveling for work](/blog/uploads/jedi-pool.jpg)
 
@@ -106,22 +106,22 @@ Business knowledge: Do you have a basic understanding of accounting and taxes? D
 
 For me, “contracting” is generally “being hired to deliver software.” Consulting may include development, but often it has more organization-level responsibilities attached. The latter should allow you to effect change but requires dealing with politics. The former is more akin to what your full-time job was, but with better pay. :)
 
-Consulting is also more likely to expose you to people who want you to fail. As a developer (or a contractor), you are most likely responsible for a deliverable you have complete<sup>5</sup> control over and the work can speak for itself. As a consultant, you may be “forced” onto a group of people who haven’t been able to deliver what they promised and their boss is unhappy with them. It’s in their best interest for you to fail so they can say “See, it’s not our fault! Even highly-paid consultants can’t make this work.” It can be an interesting world out there for sure.
+Consulting is also more likely to expose you to people who want you to fail. As a developer (or a contractor), you are most likely responsible for a deliverable you have complete[^5] control over and the work can speak for itself. As a consultant, you may be “forced” onto a group of people who haven’t been able to deliver what they promised and their boss is unhappy with them. It’s in their best interest for you to fail so they can say “See, it’s not our fault! Even highly-paid consultants can’t make this work.” It can be an interesting world out there for sure.
 
 ![Jedi Selfie](/blog/uploads/jedi-selfie.jpg)
 
 ### Any other advice to potential contractors?
 
-Spend time determining how much you are worth and never<sup>6</sup> sell yourself short. There are many articles on calculating your hourly rate using your current full-time salary as a starting point so I won’t repeat that particular formula here.
+Spend time determining how much you are worth and never[^6] sell yourself short. There are many articles on calculating your hourly rate using your current full-time salary as a starting point so I won’t repeat that particular formula here.
 
 However, I would suggest using that previous hourly figure as your absolute minimum: markets and industries dictate a lot as well. One site that’s been covering this topic for a long time is [Double Your Freelancing Rate](https://doubleyourfreelancing.com/rate/) and I’m sure there are others. Take some time and consider your acceptable range before applying for any contract.
 
 *Thanks to my wife, Lisa, for this interview format and taking a ton of notes during the process :) I look forward to reading what other developers in the Facet network share about “freelancing from the trenches” in the upcoming months!*
 
-[1] And, no, we weren’t in a big city either. Summerside, PEI had a population of about 14,000.<br/>
-[2] In 2017, Upwork (formerly Elance) created US- and UK- only filters to combat this issue.<br/>
-[3] A Microsoft contract via an intermediary was 2%/10 Net 60. Naturally, they always took their extra two percent. Grumble.<br/>
-[4] Like Facet, of course :)<br/>
-[5] You know what I mean.<br/>
-[6] Yes, there are always exceptions to every rule.<br/>
+[^1]: And, no, we weren’t in a big city either. Summerside, PEI had a population of about 14,000.
+[^2]: In 2017, Upwork (formerly Elance) created US- and UK- only filters to combat this issue.
+[^3]: A Microsoft contract via an intermediary was 2%/10 Net 60. Naturally, they always took their extra two percent. Grumble.
+[^4]: Like Facet, of course :)
+[^5]: You know what I mean.
+[^6]: Yes, there are always exceptions to every rule.
 
